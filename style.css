@@ -1,5 +1,13 @@
-/* inicio */
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
 
+/*inicio*/
 .inicio{
-    background-color: black;
+    background-color: black
+}
+
+.more{
+    font-family: 'Koulen', cursive;
+    margin-left: 750px;
+    margin-top: 20px;
+    color: white
 }
