@@ -1,4 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+
+.mainfooter{
+    padding-top: 60px;
+}
 
 /*inicio*/
 .inicio{
@@ -28,4 +38,31 @@
     text-align: center;
     color: white;
     margin-top: 40px;
+}
+
+/*proximamente*/
+.titulo{
+    font-family: 'Koulen', cursive;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+
+.prox{
+    background-color: black;
+}
+
+.nombre{
+    color: white;
+    margin-top: 150px;
+}
+
+.imagenprox{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+
+.acordeon{
+    margin-right: 60px;
+    margin-top: 10px;
 }
