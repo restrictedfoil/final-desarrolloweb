@@ -7,7 +7,25 @@
 
 .more{
     font-family: 'Koulen', cursive;
-    margin-left: 750px;
-    margin-top: 20px;
+    text-align: center;
     color: white
+}
+
+/*populares*/
+.populares{
+    background-color: black;
+}
+
+.CARDS{
+    margin-top: 50px;
+    justify-content: space-between;
+    border: solid white 4px;
+    border-radius: 10%;
+}
+
+.masv1{
+    font-family: 'Koulen', cursive;
+    text-align: center;
+    color: white;
+    margin-top: 40px;
 }
