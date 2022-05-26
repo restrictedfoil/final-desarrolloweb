@@ -1,68 +1,117 @@
+
+
 *{
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
 
 
 .mainfooter{
-    padding-top: 60px;
+  padding-top: 60px;
 }
 
 /*inicio*/
 .inicio{
-    background-color: black
+  background-color: black
 }
 
 .more{
-    font-family: 'Koulen', cursive;
-    text-align: center;
-    color: white
+  font-family: 'Koulen', cursive;
+  text-align: center;
+  color: white
 }
 
 /*populares*/
 .populares{
-    background-color: black;
+  background-color: black;
 }
 
 .CARDS{
-    margin-top: 50px;
-    justify-content: space-between;
-    border: solid white 4px;
-    border-radius: 10%;
+  margin-top: 50px;
+  justify-content: space-between;
+  border: solid white 4px;
+  border-radius: 10%;
 }
 
 .masv1{
-    font-family: 'Koulen', cursive;
-    text-align: center;
-    color: white;
-    margin-top: 40px;
+  font-family: 'Koulen', cursive;
+  text-align: center;
+  color: white;
+  margin-top: 40px;
 }
 
 /*proximamente*/
 .titulo{
-    font-family: 'Koulen', cursive;
-    text-align: center;
-    color: white;
-    margin-top: 30px;
+  font-family: 'Koulen', cursive;
+  text-align: center;
+  color: white;
+  margin-top: 30px;
 }
 
 .prox{
-    background-color: black;
+  background-color: black;
 }
 
 .nombre{
-    color: white;
-    margin-top: 150px;
+  color: white;
+  margin-top: 150px;
+  font-family: 'Koulen', cursive;
 }
 
 .imagenprox{
-    margin-top: 30px;
-    margin-left: 250px;
+  margin-top: 30px;
+  margin-left: 250px;
 }
 
 .acordeon{
-    margin-right: 60px;
-    margin-top: 10px;
+  margin-right: 60px;
+  margin-top: 10px;
 }
+
+
+/*categorias*/
+
+.categorias{
+  background-color: black;
+}
+
+.cat-name{
+  font-family: 'Koulen', cursive;
+  color: white;
+  font-size: 40px;
+  
+}
+
+.spawn {
+  width: 300px;
+  border-radius: 90%;
+  margin-top: 240px;
+}
+.spawn:hover {
+  transform: scale(2);
+  transition: all 2s;
+}
+
+.queen {
+  border-radius: 90%;
+  height: 300px;
+  margin-top: 240px;
+}
+.queen:hover {
+  transform: scale(2);
+  transition: all 2s;
+}
+
+.batman {
+  width: 300px;
+  border-radius: 90%;
+  margin-top: 300px;
+}
+.batman:hover {
+  transform: scale(2);
+  transition: all 2s;
+}
+
+/*# sourceMappingURL=style.css.map */
