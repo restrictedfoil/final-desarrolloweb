@@ -115,3 +115,31 @@
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/*perfil*/
+
+.perfil{
+  background-color: black;
+}
+
+.perfil-img{
+  text-align: center;
+ border: solid 3px white;
+}
+.vigilante{
+  border-radius: 90%;
+  margin-top: 30px;
+}
+
+.nombre-1, .productos{
+  font-family: 'Koulen', cursive;
+  color: white;
+}
+
+.productos{
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+
